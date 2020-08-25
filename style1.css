@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+	background-image: url("https://i.pinimg.com/originals/b5/eb/7e/b5eb7ed0245cdcf6e68cf8f283e6190d.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav{
+	background-color: #444;
+	padding: 20px;
+}
+#nav2{
+	background-image: url("https://img.freepik.com/free-photo/empty-wooden-table-with-colorful-smoke-float-up-dark-background_68495-150.jpg?size=626&ext=jpg");
+}
+
+#nav2 h6{
+	padding-top: 10px;
+}
+
+.border{
+	border: 20px groove #aaa;
+}
